@@ -1,0 +1,67 @@
+.cancha{
+	background-color:green;
+	height: 750px;
+	width: 1000px; 
+	border: 1px solid white;
+}
+.banda{
+	border: solid 5px white;
+	margin: auto;
+	margin-top: 50px;
+	height: 650px;
+	width: 900px;
+}
+.porteriaizquierda{
+	height: 250px;
+	width: 100px;
+	border: solid 5px white;
+	float: left;
+	margin: auto;
+	margin-top: 200px;
+}
+.porteriaderecha{
+	height: 250px;
+	width: 100px;
+	border: solid 5px white;
+	float: right;
+	margin: auto;
+	margin-top: 200px;
+}
+.centro{
+	width: 150px;
+    height: 150px;
+    border-radius: 50%;	
+	border: 5px solid white;
+	float: left;
+	margin: auto;
+	margin-left: 260px;
+	margin-right: 260px;
+	margin-top: 250px;
+}
+.pelota1{
+	width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: white;
+	position: absolute;
+	top: 40%;
+	left: 150px;
+}
+.pelota2{
+	width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: white;
+	position: absolute;
+	left: 45%;
+	top: 30%;
+}
+.pelota3{
+	width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: white;
+	position: absolute;
+	top:80%;
+	right: 150px;
+}
